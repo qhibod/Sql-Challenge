@@ -90,3 +90,11 @@ conclusion and recomendation
 
 "& #"public sales" &"
 
+----5.	What is the total items and amount spent for each member before they became a member?
+
+
+SELECT (select sum(price)from Menu) as Amount_Spent,
+count(product_id)as Total_Item,customer_id as customer
+FROM sales sl 
+WHERE customer_id in (select customer_id from members MN)
+GROUP BY customer_id
