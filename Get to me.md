@@ -5,7 +5,7 @@ This will house every of my sql task
 My name is Quadri. I'm a data Enthsiast. i have worked on msql,postgres and mysql. im very confidence in sql. i love banana too.
 
 - [x] The Repo will Houses all my sql Project
-### Danny Ma Challenge 
+### Danny Ma Challenge [check it out](https://github.com/qhibod/Sql-Challenge/blob/main/Danny%20Ma%20Challenge.md)
 ### kikiModi project
 ### Gbagbos challenge
 
